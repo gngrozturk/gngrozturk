@@ -7,9 +7,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ozturkkgungorr" target="blank"><img align="center" src="https://raw.githubusercontent.com/gngrozturk/gngrozturk/master/tw.png" alt="ozturkkgungorr" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/güngör-öztürk" target="blank"><img align="center" src="https://raw.githubusercontent.com/gngrozturk/gngrozturk/b90936943aa63de633ea1c583e6c4fd3fcad1bde/in.svg" alt="güngör-öztürk" height="30" width="30" /></a>
-<a href="https://www.youtube.com/channel/UCSWKuakUfWuDKphpYVakTQA/videos" target="blank"><img align="center" src="https://github.com/gngrozturk/gngrozturk/blob/master/yt.svg" alt="betik medya" height="30" width="30" /></a>
+<a href="https://twitter.com/ozturkkgungorr" target="blank"><img align="center" src="https://github.com/gngrozturk/gngrozturk/blob/master/tw.svg" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/güngör-öztürk" target="blank"><img align="center" src="https://github.com/gngrozturk/gngrozturk/blob/master/in.svg" alt="güngör-öztürk" height="40" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCSWKuakUfWuDKphpYVakTQA/videos" target="blank"><img align="center" src="https://github.com/gngrozturk/gngrozturk/blob/master/yt.svg" alt="betik medya" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
