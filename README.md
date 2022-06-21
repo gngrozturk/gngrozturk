@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Güngör Öztürk</h1>
 <h3 align="center">A Frontend developer who likes to develop platforms that can solve problems...</h3>
 
-📝 I regularly write articles on [https://www.betikblog.com/](https://www.betikblog.com/)
+📝 I regularly write blogs on [https://www.betikblog.com/](https://www.betikblog.com/)
 
 📫 How to reach me **gungorozturk.dev@gmail.com**
 
