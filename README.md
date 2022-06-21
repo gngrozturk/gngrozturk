@@ -7,9 +7,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ozturkkgungorr" target="blank"><img align="center" src="https://github.com/gngrozturk/gngrozturk/blob/master/tw.svg" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/güngör-öztürk" target="blank"><img align="center" src="https://github.com/gngrozturk/gngrozturk/blob/master/in.svg" alt="güngör-öztürk" height="40" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCSWKuakUfWuDKphpYVakTQA/videos" target="blank"><img align="center" src="https://github.com/gngrozturk/gngrozturk/blob/master/yt.svg" alt="betik medya" height="40" width="40" /></a>
+<a href="https://twitter.com/ozturkkgungorr" target="blank"><img align="center" src="https://github.com/gngrozturk/gngrozturk/blob/master/tw.svg" height="35" width="35" /></a>
+<a href="https://linkedin.com/in/güngör-öztürk" target="blank"><img align="center" src="https://github.com/gngrozturk/gngrozturk/blob/master/in.svg" alt="güngör-öztürk" height="35" width="35" /></a>
+<a href="https://www.youtube.com/channel/UCSWKuakUfWuDKphpYVakTQA/videos" target="blank"><img align="center" src="https://github.com/gngrozturk/gngrozturk/blob/master/yt.svg" alt="betik medya" height="35" width="35" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
