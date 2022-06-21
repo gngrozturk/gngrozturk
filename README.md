@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Güngör Öztürk</h1>
 <h3 align="center">A Frontend developer who likes to develop platforms that can solve problems...</h3>
 
-- 📝 I regularly write articles on [www.betikblog.com](www.betikblog.com)
+- 📝 I regularly write articles on [https://www.betikblog.com/](https://www.betikblog.com/)
 
 - 📫 How to reach me **gungorozturk.dev@gmail.com**
 
@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://twitter.com/ozturkkgungorr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ozturkkgungorr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/güngör-öztürk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="güngör-öztürk" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucswkuakufwudkphpyvaktqa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucswkuakufwudkphpyvaktqa" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/betik medya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="betik medya" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
